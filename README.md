@@ -1,2 +1,2 @@
-# Zoe-Aionios
-An app that can keep track patient status, answer basic healthcare question, summarize clinicial document, and scheduling appointments with patients.
+# Sentient
+An app that can keep track of patient status, answer basic healthcare questions, summarize clinical documents, and schedule appointments with patients.
